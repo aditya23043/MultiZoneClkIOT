@@ -35,5 +35,10 @@ mv src/display.ino ~/path/to/your/destination/
 https://github.com/user-attachments/assets/227c5e0d-5cf3-4d44-8e01-807f4a7e28fd
 
 ## Case
+- Compatible for M3x6mm phillips countersunk screws and M3x6mm Brass inserts
 
+### Switch and Display Mount Plate
+![2024-11-16_00-41](https://github.com/user-attachments/assets/9c988bfd-0581-4ec9-992f-e866eceb6ad6)
 
+### Bottom Casing
+![2024-11-16_00-45](https://github.com/user-attachments/assets/d8756329-0f74-4ad0-af28-ec0e3ab1c718)
